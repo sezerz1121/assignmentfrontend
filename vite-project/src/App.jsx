@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import axios from 'axios';
-import Links from './Component/Links';
+import Links from './component/Links';
 function App() {
   const [file, setFile] = useState(null);
 
