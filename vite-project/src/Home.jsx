@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import Links from './Component/Links';  // Make sure the path is correct
+import Links from './component/Links';  // Make sure the path is correct
 import axios from 'axios';  // Make sure axios is installed and imported
 
 function Home() {
